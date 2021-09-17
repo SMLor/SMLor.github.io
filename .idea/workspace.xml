@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4ffe50-8069-4ad8-924e-3262feb55a5f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="ab4ffe50-8069-4ad8-924e-3262feb55a5f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,20 +95,28 @@
       <option name="project" value="LOCAL" />
       <updated>1631848726301</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update the footer">
+      <created>1631849082907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631849082907</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test" />
     <MESSAGE value="Changes to site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes to site" />
+    <MESSAGE value="update the footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the footer" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1631848722428">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1631849079842">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1631848722428" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1631849079842" />
     <state x="133" y="44" key="Git.Interactive.Rebase.Dialog" timestamp="1630807612789">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -119,10 +125,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1630807387517" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1631848771335">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1631849087792">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1631848771335" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1631849087792" />
     <state x="450" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630807441732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
