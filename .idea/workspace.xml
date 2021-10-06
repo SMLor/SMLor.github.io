@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab4ffe50-8069-4ad8-924e-3262feb55a5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/portfolio-j.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1631849747445</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updating my services">
+      <created>1631851094771</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1631851094771</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -130,13 +135,14 @@
     <MESSAGE value="Changes to site" />
     <MESSAGE value="update the footer" />
     <MESSAGE value="trying formspree" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying formspree" />
+    <MESSAGE value="updating my services" />
+    <option name="LAST_COMMIT_MESSAGE" value="updating my services" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1631849745498">
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1631851092785">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1631849745498" />
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1631851092785" />
     <state x="133" y="44" key="Git.Interactive.Rebase.Dialog" timestamp="1630807612789">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -145,10 +151,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1630807387517" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1631849754185">
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1631851099815">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1631849754185" />
+    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1631851099815" />
     <state x="450" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630807441732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
