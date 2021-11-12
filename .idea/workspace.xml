@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab4ffe50-8069-4ad8-924e-3262feb55a5f" name="Default Changelist" comment="" />
+    <list default="true" id="ab4ffe50-8069-4ad8-924e-3262feb55a5f" name="Default Changelist" comment="fixing spelling errors">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,8 +129,33 @@
       <option name="project" value="LOCAL" />
       <updated>1631851094771</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="adding some funnies">
+      <created>1636675169957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636675169957</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fixing spelling errors">
+      <created>1636675288339</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1636675288339</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -134,32 +164,8 @@
     <MESSAGE value="update the footer" />
     <MESSAGE value="trying formspree" />
     <MESSAGE value="updating my services" />
-    <option name="LAST_COMMIT_MESSAGE" value="updating my services" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1631851092785">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1631851092785" />
-    <state x="133" y="44" key="Git.Interactive.Rebase.Dialog" timestamp="1630807612789">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="133" y="44" key="Git.Interactive.Rebase.Dialog/0.0.1280.720@0.0.1280.720" timestamp="1630807612789" />
-    <state x="142" y="6" key="SettingsEditor" timestamp="1630807387517">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1630807387517" />
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2" timestamp="1631851099815">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="233" y="94" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1631851099815" />
-    <state x="450" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1630807441732">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="450" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1630807441732" />
-    <state x="445" y="222" key="git4idea.rebase.GitRebaseDialog" timestamp="1630807599901">
-      <screen x="0" y="0" width="1280" height="720" />
-    </state>
-    <state x="445" y="222" key="git4idea.rebase.GitRebaseDialog/0.0.1280.720@0.0.1280.720" timestamp="1630807599901" />
+    <MESSAGE value="adding some funnies" />
+    <MESSAGE value="fixing spelling errors" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing spelling errors" />
   </component>
 </project>
